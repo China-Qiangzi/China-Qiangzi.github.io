@@ -2,8 +2,9 @@
 
 ZHIQIANG FU
 
-操作系统   略懂
-数据库     略懂
-ETL       略懂
-Tableau   略懂
+略懂
+操作系统、
+数据库、
+ETL、
+Tableau
 
