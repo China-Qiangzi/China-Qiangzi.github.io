@@ -1,4 +1,9 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+ZHIQIANG FU
+
+操作系统   略懂
+数据库     略懂
+ETL       略懂
+Tableau   略懂
 
